@@ -1,0 +1,9 @@
+containers:
+  - name: {{ .Chart.Name }}
+
+    image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+
+    imagePullPolicy: Always
+
+    ports:
+      - containerPort: 8080
