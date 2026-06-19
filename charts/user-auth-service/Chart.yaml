@@ -1,0 +1,7 @@
+apiVersion: v2
+name: user-auth-service
+description: User Authentication Service Helm Chart
+type: application
+
+version: 0.1.0
+appVersion: "1.0.0"
