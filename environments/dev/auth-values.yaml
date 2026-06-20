@@ -4,4 +4,4 @@ image:
   repository: myacr.azurecr.io/myapp
   tag: 1.0.0
 
-environment: prod
+environment: dev

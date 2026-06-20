@@ -1,0 +1,3 @@
+image:
+  repository: myacr.azurecr.io/insurance-service
+  tag: latest
